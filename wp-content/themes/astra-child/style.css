@@ -1,0 +1,67 @@
+ /*
+Theme Name: astra child
+Version: 1.0.0
+Description: A child theme of the Astra
+Author: Saira Zainab
+Template:Astra
+*/
+
+
+
+/********************Nav Bar starts************/
+/*Make Header Sticky - for Astra 3.0 and later*/
+
+/*
+.site-header .ast-primary-header-bar {
+    position: fixed;
+    width: 100%;
+    background-color: rgba(0,0,0,0.4)!important;
+    border-bottom: none!important;
+}
+
+.main-header-bar .main-header-bar-navigation .sub-menu {
+    line-height: 1.75!important;
+}
+.main-header-menu .sub-menu {
+    width: 160px!important;
+}
+/*****************Nav Bar ends************/
+/***************Footer Starts***********/
+/*
+.ast-footer-copyright {
+    margin-left: -35px!important;
+}
+
+.footer-nav-wrap {
+    margin-right: -95px;
+}
+*/
+/***************Footer Ends***********/
+/*************home Page*****************/
+/*
+.elementor-6 .elementor-element.elementor-element-16d893d > .elementor-element-populated {
+    width: 70%;
+}
+
+.elementor-6 .elementor-element.elementor-element-6d58254 > .elementor-element-populated{
+    width: 70%;
+}
+
+.elementor-6 .elementor-element.elementor-element-7b18415 > .elementor-element-populated{
+    width: 70%;
+}
+
+.elementor-6 .elementor-element.elementor-element-e0d4a02 > .elementor-element-populated{
+    width: 70%;
+}
+
+.elementor-6 .elementor-element.elementor-element-66b8738 > .elementor-element-populated{
+    width: 70%!important;   
+}
+
+.elementor-6 .elementor-element.elementor-element-d2e4ae7 .elementor-button {
+    width: 35%;
+    height: 50px;
+    border: blue 2px solid;
+}
+*/
