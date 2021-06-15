@@ -11,7 +11,7 @@ Template:Astra
 /********************Nav Bar starts************/
 /*Make Header Sticky - for Astra 3.0 and later*/
 
-/*
+
 .site-header .ast-primary-header-bar {
     position: fixed;
     width: 100%;
@@ -19,46 +19,68 @@ Template:Astra
     border-bottom: none!important;
 }
 
-.main-header-bar .main-header-bar-navigation .sub-menu {
+.ast-builder-layout-element .ast-flex .site-header-focus-item{
+    margin-right: -16%!important;
+}
+
+/*.main-header-bar .main-header-bar-navigation .sub-menu {
+    line-height: 1.75!important;
+}*/
+.main-header-menu .sub-menu {
+    /*width: 160px!important;*/
+    background-color: rgba(0,0,0,0.4)!important;
+    margin-top: 33%!important;
     line-height: 1.75!important;
 }
-.main-header-menu .sub-menu {
-    width: 160px!important;
+
+.site-header-primary-section-left .site-header-section .ast-flex .site-header-section-left{
+    margin-left: -35%;
 }
-/*****************Nav Bar ends************/
+
+.site-header .ast-primary-header-bar .site-header-primary-section-right .site-header-section .ast-flex .ast-grid-right-section{
+    margin-right: -17%!important;
+    padding-top: 10%!important;
+}
+/*****************Nav Bar ends************
 /***************Footer Starts***********/
-/*
+
 .ast-footer-copyright {
-    margin-left: -35px!important;
+    margin-left: -5px!important;
 }
 
 .footer-nav-wrap {
-    margin-right: -95px;
+    margin-right: -20px;
 }
-*/
+
 /***************Footer Ends***********/
 /*************home Page*****************/
+
+.elementor-15 .elementor-element.elementor-element-9c9c11e > .elementor-element-populated{
+    width: 70%;
+    height: 77%!important;
+}
+
+.elementor-15 .elementor-element.elementor-element-b9b884a > .elementor-element-populated{
+    width: 70%;
+    height: 77%!important;
+}
+
+.elementor-15 .elementor-element.elementor-element-8886999 > .elementor-element-populated{
+    width: 70%;
+    height: 77%!important;
+}
+
+.elementor-15 .elementor-element.elementor-element-1dbee07 > .elementor-element-populated{
+   
+    width: 70%;
+    height: 77%!important;
+}
+.elementor-15 .elementor-element.elementor-element-5f0fbe1 > .elementor-element-populated{
+ 
+    width: 70%;
+    height: 77%!important;
+}
 /*
-.elementor-6 .elementor-element.elementor-element-16d893d > .elementor-element-populated {
-    width: 70%;
-}
-
-.elementor-6 .elementor-element.elementor-element-6d58254 > .elementor-element-populated{
-    width: 70%;
-}
-
-.elementor-6 .elementor-element.elementor-element-7b18415 > .elementor-element-populated{
-    width: 70%;
-}
-
-.elementor-6 .elementor-element.elementor-element-e0d4a02 > .elementor-element-populated{
-    width: 70%;
-}
-
-.elementor-6 .elementor-element.elementor-element-66b8738 > .elementor-element-populated{
-    width: 70%!important;   
-}
-
 .elementor-6 .elementor-element.elementor-element-d2e4ae7 .elementor-button {
     width: 35%;
     height: 50px;
