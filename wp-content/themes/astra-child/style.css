@@ -15,8 +15,10 @@ Template:Astra
 .site-header .ast-primary-header-bar {
     position: fixed;
     width: 100%;
+    height: 100px!important;
     background-color: rgba(0,0,0,0.4)!important;
     border-bottom: none!important;
+    
 }
 
 .ast-builder-layout-element .ast-flex .site-header-focus-item{
@@ -27,10 +29,7 @@ Template:Astra
     line-height: 1.75!important;
 }*/
 .main-header-menu .sub-menu {
-    /*width: 160px!important;*/
     background-color: rgba(0,0,0,0.4)!important;
-    margin-top: 33%!important;
-    line-height: 1.75!important;
 }
 
 .site-header-primary-section-left .site-header-section .ast-flex .site-header-section-left{
@@ -87,3 +86,27 @@ Template:Astra
     border: blue 2px solid;
 }
 */
+/***********************************wp-form contact us***************************************/
+.form-1  .wpforms-submit .form-button {
+    background-color: #00b3ff;
+    border: 2px solid #00b3ff ;
+    color: #ffff;
+    font-size: 1.5em;
+    padding: 9px 19px;
+    height: 70px!important;
+    width: 60%!important;
+    margin-left: 40%;
+    border-radius: 2%;
+}
+div.wpforms-container-full .wpforms-form input[type=submit], div.wpforms-container-full .wpforms-form button[type=submit], div.wpforms-container-full .wpforms-form .wpforms-page-button{
+ 
+    background-color: #00b3ff!important;
+    border: 2px solid #00b3ff!important ;
+    color: #ffff!important;
+    font-size: 1.5em!important;
+    padding: 9px 19px;
+    height: 70px!important;
+    width: 60%!important;
+    margin-left: 40%;
+    border-radius: 2%;
+}
